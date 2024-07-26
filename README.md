@@ -52,3 +52,14 @@ I hope to record my life and have a connection with you in this way sincerely.
 > 我决定挑战自己，尝试一次云原生开发实习工作。  
 > &nbsp; &nbsp; 等10年之后，或许我能来跟你讲讲我来时的路。最后引用我喜欢的偶像们的两句话来结束7.19号的日记，一句是来自Jared McCain（an NBA player）的“Patience is key in life”，
 > 另外一句是来自Sam Altman （CEO of OpenAI）的“What should we learn these day? Resilience ,adaptability,high rate of learning.”。
+
+
+
+## 2024.07.26
+> Hello guys. Today I finally got the T-shirt from Neo4j.
+> This morning, I got a phone call from a courier .I was told there was an international package and have to 
+> receive express delivery before 11:00 am. I was too excited to do my job this morning because I knew
+> that is my T-shirt from Neo4j of completing the Neo4j graph database operation exam.  
+> And here is my T-shirt and certificate.  😊😆😆😆😆😆😆😆
+> > ![image](./ZZGEDA/neo4j/T-shirt.jpg)
+> > ![image](./ZZGEDA/neo4j/certificate.png)
