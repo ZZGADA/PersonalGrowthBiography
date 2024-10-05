@@ -105,11 +105,15 @@ kubernetes的开发非常有道理。
 所以挑战真的很大，我要在最短的时间做出最大的绩效成绩。  
 &nbsp; &nbsp; 长路漫漫，无限进步♾️。  
 &nbsp; &nbsp; 确实我会沮丧，但是我绝对不放弃。我要成为那个最牛的本科生。身边的一切都值得我好好学习，不断的探索和深挖技术，
-向身边优秀的人学习。什么微服务、分布式、高可用、集群、高并发、设计模式、操作系统、算法，我全部都要拿下。  
+向身边优秀的人学习。什么微服务、分布式、高可用、集群、高并发、设计模式、操作系统、算法，数据库，计算机网络，我全部都要拿下。  
 &nbsp; &nbsp; 最后，祝你也祝我天天开心，永远永远要最真诚的对待他/她人，遇见的每一个人都是生命中不可多的的美好回忆。
 如果身边的人不开心了，就尽可能的帮助对方，这也是你（张赞）一直都在做的事情啊，请继续保持。 
 &nbsp; &nbsp;  那么今天就这样，今天肝完了Kubernetes弹性伸缩的项目，感觉还不错。如果你阅读到这里的话可以点进去看看哦。
 [Kubernetes弹性伸缩项目](https://github.com/ZZGADA/Multiplexing)。  
 &nbsp; &nbsp;  无限进步，forward infinity
+
+## 2024.10.05
+这个视频冲击力真的太强了，无地自容
+[极海哥频道刷到的面试视频](https://www.bilibili.com/video/BV1R6xQeoEt6/?buvid=XU8AD778F6B8E93B1A9CA4797A1D3177A135C&from_spmid=main.my-history.0.0&is_story_h5=false&mid=tyPCIvy2TjbqtcmLfOhYFg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=50bbba71-ef07-4cab-bff0-21468fb4cd64&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1728123109&unique_k=XHAZt2S&up_id=1525355)
 
 
