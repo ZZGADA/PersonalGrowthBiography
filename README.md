@@ -123,4 +123,6 @@ kubernetes的开发非常有道理。
 &nbsp; &nbsp;  今天很开心,所以来更新一下.最近总结完了三种设计模式类别中的两个了(**结构型模式**和**行为型模式**),各位如果感兴趣的话可以来看看哦.    
     [设计模式-go&java](https://github.com/ZZGADA/design-pattern)
 
+## 2024.10.18
+&nbsp; &nbsp;  不要丢失了你对技术的热情
 
