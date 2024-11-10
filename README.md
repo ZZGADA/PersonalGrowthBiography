@@ -15,10 +15,7 @@ I hope to record my life and have a connection with you in this way sincerely.
 | Hello                                       | Hello                                       |
 |---------------------------------------------|---------------------------------------------|
 | ![image](./ZZGEDA/lifePhoto/selfPhoto3.jpg) | ![image](./ZZGEDA/lifePhoto/selfPhoto2.jpg) |
-
-| Hello                                       |
-|---------------------------------------------|
-| ![image](./ZZGEDA/lifePhoto/selfPhoto4.png) |
+| ![image](./ZZGEDA/lifePhoto/selfPhoto4.png) | 
 
 
 
