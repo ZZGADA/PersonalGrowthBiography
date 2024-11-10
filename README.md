@@ -10,10 +10,17 @@ I hope to record my life and have a connection with you in this way sincerely.
 * Here is my resume, you can click the link to see it .
   * [It is my resume 简历在这](./ZZGEDA/resume/张赞的简历.pdf)
 
-* Here are  my photos.
-> | Hello                                       | Hello                                       |                              
-> |---------------------------------------------|---------------------------------------------|
-> | ![image](./ZZGEDA/lifePhoto/selfPhoto3.jpg) | ![image](./ZZGEDA/lifePhoto/selfPhoto2.jpg) |
+* Here are my photos.
+
+| Hello                                       | Hello                                       |
+|---------------------------------------------|---------------------------------------------|
+| ![image](./ZZGEDA/lifePhoto/selfPhoto3.jpg) | ![image](./ZZGEDA/lifePhoto/selfPhoto2.jpg) |
+
+| Hello                                       |
+|---------------------------------------------|
+| ![image](./ZZGEDA/lifePhoto/selfPhoto4.png) |
+
+
 
 --- 
 
