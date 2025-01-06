@@ -17,13 +17,14 @@ I hope to record my life and have a connection with you in this way sincerely.
 | ![image](./ZZGEDA/lifePhoto/selfPhoto3.jpg) | ![image](./ZZGEDA/lifePhoto/selfPhoto2.jpg) |
 | ![image](./ZZGEDA/lifePhoto/selfPhoto4.png) | 
 
-
+--- 
+## 2025.01
+### * [2025.01.06  生活和工作 Separate](./2025/01/0106.md)
 
 --- 
 
-## 2024.07.19
-
-
+## 2024.12 
+### * [2024.12.23  好未来「大小屏」项目提测顺利🥳🥳](./2024/12/1223.md)
 
 ---- 
 ## 2024.11 
