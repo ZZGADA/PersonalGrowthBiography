@@ -20,6 +20,7 @@ I hope to record my life and have a connection with you in this way sincerely.
 --- 
 ## 2025.01
 ### * [2025.01.11  好像是第一次休息下来](./2025/01/0111.md)
+### * [2025.01.28 滑雪初体验+除夕快乐](./2025/01/0128.md)
 
 --- 
 
