@@ -18,6 +18,14 @@ I hope to record my life and have a connection with you in this way sincerely.
 | ![image](./ZZGEDA/lifePhoto/selfPhoto4.png) | 
 
 --- 
+## 2025.03
+### *[本科阶段的求职任务正式结束](./2025/03/0324.md)
+
+--- 
+## 2025.02
+### *[北京探店「美食篇」](./2025/02/0216.md)
+
+--- 
 ## 2025.01
 ### * [2025.01.28 滑雪初体验+除夕快乐](./2025/01/0128.md)
 ### * [2025.01.11  好像是第一次休息下来](./2025/01/0111.md)
