@@ -23,7 +23,7 @@ I hope to record my life and have a connection with you in this way sincerely.
 ### *[毕业设计完成+享受生活](./2025/04/0430.md)
 --- 
 ## 2025.03
-### *[本科阶段的求职任务正式结束](./2025/03/0324.md)
+### * [本科阶段的求职任务正式结束](./2025/03/0324.md)
 
 --- 
 ## 2025.02
