@@ -18,6 +18,10 @@ I hope to record my life and have a connection with you in this way sincerely.
 | ![image](./ZZGEDA/lifePhoto/selfPhoto4.png) | ![image](./ZZGEDA/lifePhoto/selfPhoto5.jpg) |
 
 
+--- 
+## 2025.06
+### [2025.07.09 一个可爱的女生🥰](./2025/07/0709.md)
+
 
 --- 
 ## 2025.06 
